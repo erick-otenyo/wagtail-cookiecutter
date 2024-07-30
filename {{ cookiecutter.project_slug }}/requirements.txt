@@ -1,0 +1,14 @@
+Django>=4.2,<5.1
+wagtail>=6.1,<6.2
+django-environ==0.11.2
+dj-database-url==2.2.0
+psycopg2==2.9.9
+wagtail-font-awesome-svg==1.0.1
+django-cleanup==8.1.0
+django-redis==5.4.0
+django-celery-beat==2.6.0
+celery-singleton==0.3.1
+channels== 4.1.0
+daphne==4.1.2
+gunicorn==22.0.0
+uvicorn[standard]==0.30.3
